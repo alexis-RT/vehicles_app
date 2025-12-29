@@ -35,5 +35,5 @@ características de los vehículos mediante gráficos interactivos.
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
-
+```
 Aplicacion creada por Alan Rojas Toledo.
