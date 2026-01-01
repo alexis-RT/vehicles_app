@@ -30,10 +30,10 @@ características de los vehículos mediante gráficos interactivos.
 
 ---
 
-## Instalación y ejecución
+## link
 
-1. Clonar el repositorio:
+Render:
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+https://vehicles-app-qwim.onrender.com
 ```
 Aplicacion creada por Alan Rojas Toledo.
